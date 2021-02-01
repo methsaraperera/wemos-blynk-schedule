@@ -40,6 +40,6 @@ Tap OK to finalize your Start Event.Same way create a new event and select START
 
 Code
 -----------------------------------------
-Download the code.ino file or copy the code in it
+Download the code.ino file or copy the code in it.  https://github.com/methsaramperera/wemos-blynk-schedule/blob/main/code.ino
 
 Make sure to change the AUTH_KEY, SSID and PASSWORD before uploading the code.
