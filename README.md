@@ -1,4 +1,4 @@
-# Schedule and control devices connected to Wemos D1 mini OR Nodemcuthrough blynk app
+# Schedule and control devices connected to Wemos D1 mini or Nodemcu through blynk app
 Schedule and control devices with Wemos D1 and Blynk app
 
 Adding Board to Arduino IDE
